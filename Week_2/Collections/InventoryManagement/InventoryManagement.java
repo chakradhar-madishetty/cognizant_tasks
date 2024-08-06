@@ -1,5 +1,6 @@
-// InventoryManagement.java
-package InventoryManagement;
+package Week_2.Collections.InventoryManagement;
+
+
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,5 +1,4 @@
-package Week_2_Threading;
-
+package Week_2.Threads.Exercise_5;
 public class ProducerConsumer {
 
     public static void main(String[] args) {

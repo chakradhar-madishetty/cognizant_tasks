@@ -1,4 +1,4 @@
-package Week_2_File_IO.LargeFileProcessor;
+package Week_2.File_IO.LargeFileProcessor;
 import java.util.List;
 import java.util.stream.Collectors;
 

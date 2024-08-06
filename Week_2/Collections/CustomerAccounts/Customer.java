@@ -1,5 +1,5 @@
-// Customer.java
-package CustomerAccounts;
+package Week_2.Collections.CustomerAccounts;
+
 
 public class Customer {
     private int id;

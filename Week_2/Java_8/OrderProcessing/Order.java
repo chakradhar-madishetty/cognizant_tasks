@@ -1,4 +1,4 @@
-package Week_2_Java_8.OrderProcessing;
+package Week_2.Java_8.OrderProcessing;
 
 public class Order {
     private int orderId;

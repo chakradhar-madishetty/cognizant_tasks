@@ -1,5 +1,6 @@
-// Student.java
-package StudentGrades;
+package Week_2.Collections.StudentGrades;
+
+
 
 public class Student {
     private int id;

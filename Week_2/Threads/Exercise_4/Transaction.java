@@ -1,4 +1,5 @@
-package Week_2_Threading;
+package Week_2.Threads.Exercise_4;
+
 
 public class Transaction extends Thread {
     private BankAccount account;

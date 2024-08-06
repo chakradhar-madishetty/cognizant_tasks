@@ -1,19 +1,16 @@
-package UserRegistration;
+package Week_2.Collections.UserRegistration;
 import java.util.TreeSet;
 
 public class UserRegistration{
     public static void main(String[] args) {
         Methods registration = new Methods();
         
-        // Register users
         registration.registerUser("Alice");
         registration.registerUser("Bob");
         registration.registerUser("Charlie");
         
-        // Remove a user
         registration.removeUser("Bob");
         
-        // Display all users
         System.out.println("Current registered users:");
         registration.displayUsers();
     }

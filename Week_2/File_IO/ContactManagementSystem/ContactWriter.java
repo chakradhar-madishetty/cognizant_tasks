@@ -1,4 +1,4 @@
-package Week_2_File_IO.ContactManagementSystem;
+package Week_2.File_IO.ContactManagementSystem;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;

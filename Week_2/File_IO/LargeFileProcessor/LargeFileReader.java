@@ -1,4 +1,4 @@
-package Week_2_File_IO.LargeFileProcessor;
+package Week_2.File_IO.LargeFileProcessor;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

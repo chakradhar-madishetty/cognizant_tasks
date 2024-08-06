@@ -1,4 +1,4 @@
-package Week_2_Threading;
+package Week_2.Threads.Exercise_6;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.Map;

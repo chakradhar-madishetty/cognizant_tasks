@@ -1,5 +1,6 @@
-// CustomerAccounts.java
-package CustomerAccounts;
+package Week_2.Collections.CustomerAccounts;
+
+
 
 import java.util.TreeMap;
 

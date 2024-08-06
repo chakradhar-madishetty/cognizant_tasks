@@ -1,4 +1,4 @@
-package Week_2_File_IO.ContactManagementSystem;
+package Week_2.File_IO.ContactManagementSystem;
 
 public class ContactApp {
     public static void main(String[] args) {

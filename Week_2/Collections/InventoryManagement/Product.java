@@ -1,5 +1,6 @@
-// Product.java
-package InventoryManagement;
+package Week_2.Collections.InventoryManagement;
+
+
 
 public class Product {
     private int id;

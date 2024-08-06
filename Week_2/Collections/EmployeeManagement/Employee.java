@@ -1,5 +1,6 @@
-// Employee.java
-package EmployeeManagement;
+package Week_2.Collections.EmployeeManagement;
+
+
 
 public class Employee {
     private int id;

@@ -1,8 +1,8 @@
-package ProductCatalog;
+package Week_2.Collections.ProductCatalog;
+
+
 import java.util.HashSet;
-/**
- * ProductCatalog
- */
+
 public class ProductCatalog {
 public static void main(String[] args) {
     Methods m=new Methods();

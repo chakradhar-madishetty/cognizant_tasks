@@ -1,5 +1,5 @@
-// StudentGrades.java
-package StudentGrades;
+package Week_2.Collections.StudentGrades;
+
 
 import java.util.LinkedHashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Week_2_File_IO.LogManagementSystem;
+package Week_2.File_IO.LogManagementSystem;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

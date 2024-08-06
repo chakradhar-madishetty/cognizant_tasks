@@ -1,3 +1,4 @@
+package Week_2.File_IO.NoteTakingApp;
 import java.util.Scanner;
 
 public class NoteApp {

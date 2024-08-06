@@ -1,5 +1,5 @@
-// BookCollection.java
-package BookCollection;
+package Week_2.Collections.BookCollection;
+
 
 import java.util.LinkedHashSet;
 

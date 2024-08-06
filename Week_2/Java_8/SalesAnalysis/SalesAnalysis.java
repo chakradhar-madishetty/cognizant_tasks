@@ -1,4 +1,4 @@
-package Week_2_Java_8.SalesAnalysis;
+package Week_2.Java_8.SalesAnalysis;
 import java.time.LocalDate;
 import java.util.*;
 

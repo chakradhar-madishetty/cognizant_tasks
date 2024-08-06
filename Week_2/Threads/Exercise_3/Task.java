@@ -1,4 +1,4 @@
-package Week_2_Threading;
+package Week_2.Threads.Exercise_3;
 public class Task extends Thread {
     private String taskName;
 

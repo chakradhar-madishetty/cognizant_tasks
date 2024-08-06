@@ -1,4 +1,4 @@
-package Week_2_Java_8.FeedbackAnalysis;
+package Week_2.Java_8.FeedbackAnalysis;
 
 @FunctionalInterface
 public interface FeedbackProcessor {

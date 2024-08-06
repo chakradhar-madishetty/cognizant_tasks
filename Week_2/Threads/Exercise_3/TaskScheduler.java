@@ -1,5 +1,4 @@
-package Week_2_Threading;
-
+package Week_2.Threads.Exercise_3;
 public class TaskScheduler {
 
     public static void main(String[] args) {

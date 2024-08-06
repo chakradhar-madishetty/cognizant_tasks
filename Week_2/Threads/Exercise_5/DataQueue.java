@@ -1,5 +1,4 @@
-package Week_2_Threading;
-
+package Week_2.Threads.Exercise_5;
 import java.util.LinkedList;
 import java.util.Queue;
 

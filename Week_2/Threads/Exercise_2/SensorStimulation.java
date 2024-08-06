@@ -1,4 +1,5 @@
-package Week_2_Threading;
+package Week_2.Threads.Exercise_2;
+
 
 class SensorSimulation {
 
